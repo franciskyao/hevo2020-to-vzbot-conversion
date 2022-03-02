@@ -2,11 +2,11 @@
 This repository contains the files needed to convert a HyperCube Evolution 2020 into a VzBot
 
 
-##I. Introduction
+## I. Introduction
 The goal of the conversion is to reuse as much parts from a HyperCube Evolution 2020 (HEVO 2020) into a VzBot. The frame was for a HyperCube but has been reused into a HyperCube Evolution 2020 and has now been reused to build a VzBot. Since the VzBot uses linear rails instead of linear rods, the linear rods on the X and Y axis will be used for a different project.
 
 
-##II. Parts to be reused
+## II. Parts to be reused
 
 1. 2020 Aluminum Extrusion (bundled HyperCube frame from Zyltech)
   -6x 440mm
