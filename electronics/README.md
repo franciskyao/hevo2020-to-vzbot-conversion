@@ -1,0 +1,1 @@
+The electronics are mounted on a 2x DIN rails that are 150mm apart.
